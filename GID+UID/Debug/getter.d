@@ -1,0 +1,1 @@
+getter.d: ../getter.c

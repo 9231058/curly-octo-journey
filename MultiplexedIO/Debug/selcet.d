@@ -1,0 +1,1 @@
+selcet.d: ../selcet.c
